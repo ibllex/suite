@@ -1,0 +1,2 @@
+# suite
+Go test suite
