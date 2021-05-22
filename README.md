@@ -5,8 +5,8 @@ Simple and lightweight test suite for Go.
 ## Features
 
 1. Support test group.
-2. Setup and TearDown hooks for each suite and test case.
-3. Use the SUITE_RUN environment variable to run the specified test.
+2. `Setup` and `TearDown` hooks for each suite and test case.
+3. Use the `SUITE_RUN` environment variable to run the specified test.
 
 ## Quick Start
 
